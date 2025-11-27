@@ -1,0 +1,32 @@
+{
+  "users": {
+    "hgarcia1@gmail.com": {
+      "password": "123456",
+      "balance": 900.0
+    },
+    "cashtt@gmail.com": {
+      "password": "123456",
+      "balance": 1150.0
+    }
+  },
+  "transactions": {
+    "hgarcia1@gmail.com": [
+      {
+        "type": "sent",
+        "amount": 100.0,
+        "to": "hgarcia1@gmail.com",
+        "timestamp": "2025-11-26 18:12:40"
+      }
+    ],
+    "cashtt@gmail.com": []
+  },
+  "bill_payments": {
+    "hgarcia1@gmail.com": []
+  },
+  "cashouts": {
+    "hgarcia1@gmail.com": []
+  },
+  "topups": {
+    "hgarcia1@gmail.com": []
+  }
+}
